@@ -1,6 +1,6 @@
 # CyberDevs Blog
 
-Blog / Forums Nêu lên những vấn đề vừa lừa đảo
+Blog / Forums Nêu lên những vấn đề lừa đảo
 
 ## Cách tải / Khởi chạy
 
